@@ -63,7 +63,7 @@
     ],
     "imageResize": false,
     "favicon": "@PROJECT_PATH@/assets/images/a441bac686674750a61406ff94e58905.gif",
-    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n",
+    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n\n<div style=\"text-align: center;\">\n<a href=\"https://glopart.ru/buy/199784\"><b><span style=\"color: red; font-family: Georgia, Times New Roman, serif; font-size: x-large;\">КУПИТЬ</span></b></a></div>",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "cookiesAlert": {
@@ -88,7 +88,8 @@
     "sitemapSwitcherAuto": "on",
     "siteUrl": false,
     "uniqCompNum": 8,
-    "versionPublish": "4.12.3"
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "09.html": {
