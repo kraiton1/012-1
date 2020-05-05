@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#149dcc",
         "secondaryColor": "#ff3366",
-        "successColor": "#f9f295",
+        "successColor": "#f6dc07",
         "infoColor": "#82786E",
         "warningColor": "#879A9F",
         "dangerColor": "#B1A374",
@@ -18,7 +18,7 @@
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Roboto Slab",
-        "display5Size": "1.8",
+        "display5Size": "2.5",
         "display7Font": "Noto Serif",
         "display7Size": "1",
         "display4Font": "Playfair Display",
@@ -61,13 +61,19 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "imageResize": false,
+    "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/a441bac686674750a61406ff94e58905.gif",
-    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n\n<div style=\"text-align: center;\">\n<a href=\"https://glopart.ru/buy/199784\"><b><span style=\"color: red; font-family: Georgia, Times New Roman, serif; font-size: x-large;\">КУПИТЬ</span></b></a></div>",
+    "google-analytics": "<script language='JavaScript1.2'>\nfunction disableselect(e){\nreturn false\n}\nfunction reEnable(){\nreturn true\n}\ndocument.onselectstart=new Function (\"return false\")\nif (window.sidebar){\ndocument.onmousedown=disableselect\ndocument.onclick=reEnable\n}\n</script>\n\n\n\n<div class=\"spoonpayForm22966\" data-form=\"22966\" style=\"position: fixed; top: 20%; z-index: 999; left: 0; right: 0; width: 99%; text-align: center; opacity: 0; visibility: hidden;\"><div class=\"spoonpayFormClose\" onClick=\"closeForm(22966)\" style=\"position: absolute; font-size: 32px; top: -24px; left: 0; right: 0; cursor: pointer; padding: 8px; margin: 0; line-height: 0;\">&times;</div><div style=\"position: absolute; z-index: 10; text-align: center; top: 33%; left: 0; right: 0;\"><div style=\"max-width: 264px;margin-top: 32px; display: inline-block; width: 100%; text-align: center; box-shadow: 0 0 40px rgba(0, 0, 0, 0.1) inset, rgba(0, 0, 0, 0.14) 0px 0px 20px 3px; -webkit-box-shadow: 0 0 40px rgba(0, 0, 0, 0.1) inset, rgba(0, 0, 0, 0.14) 0px 0px 20px 3px; -moz-box-shadow: 0 0 40px rgba(0, 0, 0, 0.1) inset, rgba(0, 0, 0, 0.14) 0px 0px 20px 3px; padding: 32px; background-color: white;border-radius: 0px; -webkit-border-radius: 0px; -moz-border-radius: 0px;\"><form onsubmit=\"return checkForm(22966)\" action=\"https://spoonpay.com/subscribe/request/17b4707a89bb69d5f28dcbdbff8ad40d\" method=\"post\"><input type=\"hidden\" name=\"hash\" value=\"17b4707a89bb69d5f28dcbdbff8ad40d\"><table style=\"margin: 0 auto;\"><tr><td style=\"margin-right: 16px;\"><input type=\"text\" value=\"\" name=\"input_name\" class=\"onlyText required\" placeholder=\"Имя\" style=\"color: black; color: black; width: 200px; margin: 4px auto; outline: 0; padding: 8px 16px; border: 1px solid #ccc; border-radius: 90px; -webkit-border-radius: 90px; -moz-border-radius: 90px;display: block\"><input type=\"text\" value=\"\" name=\"input_email\" class=\"email required\" placeholder=\"E-mail\" style=\"color: black; color: black; width: 200px; margin: 4px auto; outline: 0; padding: 8px 16px; border: 1px solid #ccc; border-radius: 90px; -webkit-border-radius: 90px; -moz-border-radius: 90px;display: block\"></td></tr><tr><td><input onClick=\"submit()\" type=\"submit\" value=\"Я  ГОТОВ\" style=\"font-size: 17px; outline: 0; cursor: pointer; color: white; padding: 7px 32px; border: 0;background: rgb(255, 48, 25); background: -moz-linear-gradient(top, rgba(255, 48, 25, 1) 0%, rgba(207, 4, 4, 1) 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 48, 25, 1)), color-stop(100%, rgba(207, 4, 4, 1))); background: -webkit-linear-gradient(top, rgba(255, 48, 25, 1) 0%, rgba(207, 4, 4, 1) 100%); background: -o-linear-gradient(top, rgba(255, 48, 25, 1) 0%, rgba(207, 4, 4, 1) 100%); background: -ms-linear-gradient(top, rgba(255, 48, 25, 1) 0%, rgba(207, 4, 4, 1) 100%); background: linear-gradient(to bottom, rgba(255, 48, 25, 1) 0%, rgba(207, 4, 4, 1) 100%); ; border-radius: 8px; -moz-border-radius: 8px; -webkit-border-radius: 8px; -ms-border-radius: 8px; -o-border-radius: 8px; margin: 8px 4px;\"></td></tr><tr><td><p style=\"text-align: center; margin-top: 16px; font-family: sans-serif; font-size: 14px; color: #0000ff\">Нажимая на кнопку, я даю <wbr><a href=\"https://spoonpay.com/personalInformationConsent\" target=\"_blank\" style=\"text-decoration: underline; color: #0000ff!important\">согласие на обработку персональных данных</a></p></td></tr></table><input type=\"hidden\" name=\"utm\" value=\"\"></form></div></div></div><script>function showForm(id) {var form = document.querySelector('.spoonpayForm'+id);form.style.transition = 'all 0.2s linear';form.style.visibility = 'visible';form.style.opacity = '1';}function closeForm(id) {var form = document.querySelector('.spoonpayForm'+id);form.style.transition = 'all 0.2s linear';form.style.opacity = '0';form.style.visibility = 'hidden';}setTimeout(showForm, 12000, 22966);</script>",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": false,
+    "uniqCompNum": 11,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
     "cookiesAlert": {
-      "customDialogSelector": false,
+      "customDialogSelector": true,
       "colorText": "#424a4d",
       "colorBg": "#eaeff1",
       "colorButton": "",
@@ -76,20 +82,14 @@
       "opacity": "99",
       "opacityOverlay": "80",
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-      "textButton": "Yes"
+      "textButton": "ДА"
     },
     "gdpr": {
       "colorText": "#a7a7a7",
       "colorLink": "#149dcc",
-      "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    },
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
-    "uniqCompNum": 8,
-    "versionPublish": "4.12.3",
-    "screenshot": "screenshot.png"
+      "underlineLink": true,
+      "text": "<script type=\"text/javascript\">var es_xm=new XMLHttpRequest;es_xm.onreadystatechange=function(){document.getElementById(\"esfc\").innerHTML=es_xm.responseText};es_xm.open(\"GET\",\"https://mailer.estismail.com/proforms/proformget/4241\",true);es_xm.send()</script><div id=\"esfc\"></div>"
+    }
   },
   "pages": {
     "09.html": {
@@ -116,84 +116,44 @@
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
-            ".mbr-icofont": {
+            ".mbr-media span": {
               "font-size": "48px",
-              "color": "#353535"
-            },
-            ".form-group": {
-              "padding": "0.5rem"
-            },
-            ".show-modal span": {
               "cursor": "pointer",
-              "background-color": "@primaryColor",
+              "background-color": "#ffffff",
               "border-radius": "50%",
               "width": "6rem",
               "height": "6rem",
+              "line-height": "6rem",
               "position": "relative",
               "display": "inline-block",
               "transition": "all 0.25s",
-              "&:before": {
+              "color": "#353535",
+              "&.mbri-play:before": {
                 "position": "absolute",
                 "left": "50%",
-                "top": "50%",
-                "-webkit-transform": "translateX(-50%) translateY(-50%)",
-                "transform": "translateX(-50%) translateY(-50%)"
+                "-webkit-transform": "translateX(-35%)",
+                "-moz-transform": "translateX(-35%)",
+                "-ms-transform": "translateX(-35%)",
+                "-o-transform": "translateX(-35%)",
+                "transform": "translateX(-35%)"
               }
-            },
-            ".mbr-figure": {
-              "width": "100px",
-              "height": "100px",
-              "margin-bottom": "10px",
-              "margin": "auto",
-              "transition": "transform 1s",
-              "cursor": "pointer",
-              "a": {
-                "width": "100px",
-                "height": "100px",
-                "line-height": "100px",
-                "font-size": "100px",
-                "&:before": {
-                  "width": "100px",
-                  "height": "100px"
-                }
-              },
-              "&:hover": {
-                "transform": "scale(1.15)",
-                "transition": "transform 1s",
-                "-webkit-transform": "scale(1.15)"
-              }
-            },
-            ".mbri-play:before": {
-              "left": "55% !important"
-            },
-            ".form-control": {
-              "text-align": "center"
-            },
-            "h3": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-weight": "300"
             },
             ".modalWindow": {
               "position": "fixed",
               "z-index": "5000",
-              "display": "none",
               "left": "0",
               "top": "0",
               "background-color": "rgba(61, 61, 61, 0.65)",
               "width": "100%",
               "height": "100%",
-              "& .modalWindow-container": {
+              ".modalWindow-container": {
                 "display": "table-cell",
-                "vertical-align": "middle",
-                "text-align": "-o-center",
-                "& .modalWindow-video-container": {
-                  "display": "inline-block",
-                  "width": "100%",
-                  ".modalWindow-video": {
-                    "margin": "auto"
-                  }
-                }
+                "vertical-align": "middle"
+              },
+              ".modalWindow-video": {
+                "height": "calc(80vw / 1.778)",
+                "width": "80vw",
+                "margin": "0 auto"
               }
             },
             "a.close": {
@@ -210,55 +170,17 @@
                 "color": "#ffffff"
               }
             },
-            "@media (max-width: 500px)": {
-              ".modalWindow-video": {
-                "width": "80%",
-                "height": "200px",
-                "position": "relative"
-              }
-            },
-            "@media (min-width: 500px) and (max-width: 768px)": {
-              ".modalWindow-video": {
-                "width": "90%",
-                "height": "340px",
-                "position": "relative"
-              }
-            },
-            "@media (min-width: 768px) and (max-width: 850px)": {
-              ".modalWindow-video": {
-                "width": "700px",
-                "height": "395px",
-                "position": "relative"
-              }
-            },
-            "@media (min-width: 850px) and (max-width: 1300px)": {
-              ".modalWindow-video": {
-                "width": "800px",
-                "height": "452px",
-                "position": "relative"
-              }
-            },
-            "@media (min-width: 1300px)": {
-              ".modalWindow-video": {
-                "width": "1200px",
-                "height": "675px",
-                "position": "relative"
-              }
-            },
-            ".mbr-section-subtitle": {
-              "color": "#f9f295"
+            "P": {
+              "color": "#f6dc07"
             },
             "H1": {
               "color": "#f9063f"
-            },
-            "DIV": {
-              "text-align": "center"
             }
           },
-          "_name": "header13",
-          "_customHTML": "<section class=\"header13\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,'mbr-parallax-background' :bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полный экран\" name=\"fullScreen\">\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Всплывающее видео\" name=\"showVideoPopUp\" checked>\n        <input type=\"text\" title=\"URL видео\" name=\"modalVideo\" value=\"ССЫЛКА   при  ОПЛАТЕ\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Стрелка\" name=\"showArrow\" checked>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"@PROJECT_PATH@/assets/images/mbr-1920x1280.jpeg\" parallax selected>\n            <input type=\"color\" title=\"Цвет фона\" value=\"#073B4C\">\n            <input type=\"video\" title=\"Фоновое видео\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"mbr-media show-modal align-center pb-4 mb-4 pt-5\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n            <span mbr-icon class=\"mbr-icofont mbri-lock\" style=\"color: rgb(255, 255, 255); fill: rgb(255, 255, 255);\"></span>\n        </div>\n\n        <h1 class=\"mbr-section-title align-center pb-3 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">Правильное \n<div>и \n</div><div>&nbsp;эффективное  упражнение\n</div><div>&nbsp;для мышц пресса&nbsp;</div></h1>\n\n        <h3 class=\"mbr-section-subtitle mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\"><b>Прямые </b><br><b>скручивания самые\n</b><div><b>эффективные для мышц брюшного пресса</b></div></h3>\n\n        <div class=\"container mt-5 pt-5 pb-5\">\n           <div mbr-form class=\"media-container-column\">\n                <!---Formbuilder Form--->\n                <form action=\"kraiton379@gmail.com\" name=\"Mobirise Form\" method=\"POST\" class=\"mbr-form form-with-styler\">\n                    <div class=\"row justify-content-center form-inline\">\n                        <div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">За то \nчто уделили мне внимание.\nСпасибо ...  \nочень хочется сказать.\nЖелаю благ ,\nуспехов ,\nпроцветания ,\nВсегда так чутко в жизни поступать.\n</div>\n                        <div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">\n                        </div>\n                    </div>\n                    <div class=\"dragArea row justify-content-center form-inline\">\n                        <div class=\"col-auto form-group \" data-for=\"name\">\n                            <input type=\"text\" name=\"name\" placeholder=\"Name\" data-form-field=\"Name\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control input-sm input-inverse\">\n                        </div>\n                        <div class=\"col-auto form-group \" data-for=\"email\">\n                            <input type=\"email\" name=\"email\" placeholder=\"Email\" data-form-field=\"Email\" mbr-theme-style=\"display-7\" required=\"required\" class=\"form-control input-sm input-inverse\">\n                        </div>\n                        <div data-for=\"phone\" class=\"col-auto form-group \" hidden=\"hidden\">\n                            <input type=\"tel\" name=\"phone\" placeholder=\"Phone\" data-form-field=\"Phone\" mbr-theme-style=\"display-7\" class=\"form-control input-sm input-inverse\" hidden=\"hidden\">\n                        </div>\n                        <div class=\"col-auto buttons-wrap \" mbr-buttons=\"true\" mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove,-mbrBtnLink,-mbrBtnAdd\"><a type=\"submit\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"https://is.gd/9WmME1\" target=\"_blank\">ПОДПИСАТЬСЯ</a></div>\n                    </div>\n                </form><!---Formbuilder Form--->\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Закрыть</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
-          "_cid": "rXxHixbSOz",
-          "_anchor": "header13-2",
+          "_name": "header8",
+          "_customHTML": "<section class=\"header8\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" plugins=\"PlayerVimeo\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полный экран\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"5\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\" checked>\n        <input type=\"checkbox\" title=\"Всплывающее видео\" name=\"showVideoPopUp\" checked>\n        <input type=\"text\" title=\"URL видео\" name=\"modalVideo\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Описание\" name=\"showDescription\" checked condition=\"showVideoPopUp\">\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" value=\"@PROJECT_PATH@/assets/images/mbr.jpg\" title=\"Фоновое изображение\" selected parallax>\n            <input type=\"color\" value=\"#7f1933\" title=\"Цвет фона\">\n            <input type=\"video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\" title=\"Фоновое видео\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container align-center\">\n        <div class=\"row justify-content-md-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center py-2 mbr-bold mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">\n                        ПРАВИЛЬНОЕ<br> и <br>ЭФФЕКТИВНОЕ&nbsp;<br>УПРАЖНЕНИЕ <br>для <br>ПРЕССА<br><br><br></h1>\n                <p class=\"mbr-text align-center py-2 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\"><b>\n                        Прямые скручивания <br>&nbsp;для&nbsp;<br>&nbsp;КАЧЕСТВЕННОГО&nbsp;<br>ПРЕССА</b><br><b>( &nbsp;Текст и Видео )</b></p>\n                <div class=\"mbr-media show-modal align-center py-2\" mbr-if=\"showVideoPopUp\" data-modal=\".modalWindow\">\n                         <span mbr-icon class=\"mbr-iconfont mbri-play\" style=\"color: rgb(20, 157, 204); fill: rgb(20, 157, 204);\"></span>\n                </div>\n                <div mbr-text class=\"icon-description align-center font-italic pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showDescription && showVideoPopUp\" data-app-selector=\".icon-description\">ВИДЕО</div>\n                <div class=\"mbr-section-btn text-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-md btn-primary\" href=\"https://mobirise.co\" data-app-placeholder=\"Введите Текст\">ЕЩЕ</a></div>\n            </div>\n        </div>\n    </div>\n    <div mbr-if=\"showVideoPopUp\">\n        <div class=\"modalWindow\" style=\"display: none;\">\n            <div class=\"modalWindow-container\">\n                <div class=\"modalWindow-video-container\">\n                    <div class=\"modalWindow-video\">\n                        <iframe width=\"100%\" height=\"100%\" data-src=\"{{modalVideo}}\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>\n                    </div>\n                    <a class=\"close\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\" class=\"mbri-close mbr-iconfont closeModal\"></span>\n                        <span class=\"sr-only\">Закрыть</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rXDs9iiAiH",
+          "_anchor": "header8-a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -291,7 +213,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Ширина текста\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Ширина линии\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"75\">\n        <input type=\"color\" title=\"Цвет линии\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text><br><div>\n</div><div>\n</div><div><b>- ЖЕЛАЮ УДАЧИ -</b></div><b>-&nbsp;<span style=\"font-size: 2rem;\">БЕРЕГИТЕ  СЕБЯ -</span></b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Ширина текста\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Ширина линии\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"75\">\n        <input type=\"color\" title=\"Цвет линии\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>&nbsp; ССЫЛКА &nbsp; <br>на&nbsp;<br>(  Текст и Видео )<br>&nbsp; БУДЕТ &nbsp;ДОСТУПНА &nbsp;<br>&nbsp;после &nbsp;<br>ВАШЕЙ<br>&nbsp; &nbsp; ПОДПИСКИ &nbsp; &nbsp;<br>&nbsp;<br>* * *<br><br><div>\n</div><div>\n</div><div><b>- ЖЕЛАЮ УДАЧИ -</b></div><b>-&nbsp;<span style=\"font-size: 2rem;\">БЕРЕГИТЕ  СЕБЯ -</span></b></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rXxXmiBPoS",
           "_anchor": "content9-7",
           "_protectedParams": [],
